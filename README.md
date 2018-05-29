@@ -1,2 +1,2 @@
-# Wikipedia-Viewe
+# Wikipedia-Viewer
 Wikipedia Viewer for freecodecamp
